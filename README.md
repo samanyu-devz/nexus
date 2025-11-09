@@ -32,7 +32,7 @@ This system represents Version 2 of a two-stage waste management pipeline, exten
 - Python  
 - TensorFlow / Keras  
 - OpenCV  
-- Raspberry Pi or PC for inference  
+- Arduino for inference  
 - Robotic Arm (Servo-based)  
 - Custom dataset (plastic, metal, paper)
 
@@ -129,6 +129,3 @@ This system significantly reduces manual handling, improves segregation accuracy
 Coming Soon 💔
 
 ---
-
-
-## Results
