@@ -23,7 +23,7 @@ Nexus automates the classification and sorting of waste using machine learning a
 - TensorFlow or Custom CNN  
 - OpenCV  
 - Robotic Arm with Servo Motors  
-- Raspberry Pi or PC for inference
+- Arduino Uno for inference
 
 ---
 
