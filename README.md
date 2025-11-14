@@ -39,7 +39,6 @@ This system represents Version 2 of a two-stage waste management pipeline, exten
 ---
 
 ## Architecture
-Upload your diagram to `docs/nexus_architecture.png` and reference it here.
 
 ![Architecture](docs/nexus_architecture.png)
 
@@ -126,6 +125,7 @@ This system significantly reduces manual handling, improves segregation accuracy
 ---
 
 ## Source Code
-Coming Soon 💔
+[!Source Code](src/main.py)
+[!Source Code](src/robotic_arm_code.ino)
 
 ---
