@@ -122,12 +122,7 @@ NEXUS directly evolves from the limitations of ORIGIN, upgrading the system from
 NEXUS represents a scalable and practical approach to automated waste management by combining machine learning, computer vision, and robotics.  
 This system significantly reduces manual handling, improves segregation accuracy, and forms the foundation for future AI-driven environmental automation.
 
----
 
-## Newspaper Publication
-![Article](docs/article_nexus.jpg)
-
----
 
 ## Source Code
 [Python Code](src/main.py)
