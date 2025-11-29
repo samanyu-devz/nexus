@@ -124,6 +124,11 @@ This system significantly reduces manual handling, improves segregation accuracy
 
 ---
 
+## Newspaper Publication
+![Article](docs/article_nexus.jpg)
+
+---
+
 ## Source Code
 [Python Code](src/main.py)
 [Robotic Arm Code](src/robotic_arm_code.ino)
